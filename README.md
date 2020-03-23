@@ -1,1 +1,1 @@
-# command-line-parser-options
+# Simple examples how to pars command line arguments in .NET Core
